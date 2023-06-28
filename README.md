@@ -10,6 +10,7 @@ My skills:
 - Web Scraping
 
 🌱 I’m currently learning more technicals about developing mobile and game PC.
+
 One thing in my life: Don't just dream, do
 
 <!---
