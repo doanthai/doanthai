@@ -1,13 +1,5 @@
- 👋 Hi, I’m @doanthai and I'm a fullstack developer with 8 years of experience in professional software development.
-My skills:
-- Javascript, Java, PHP, NodeJS
-- NestJS, NextJS, Spring boot, Laravel, ReactJS
-- MongoDB, MySql
-- HTML5, CSS, Jquery
-- Web Service, API Integration, Rest API Development
-- Virtual Classroom System: BigBlueButton, Adobe Connect
-- Linux server, VPS, Nginx, Apache2, Docker, Kubernete
-- Web Scraping
+ 👋 Hi, I’m @doanthai and I'm a full-stack developer with 8 years of experience in professional software development. I love working with OOP and architecture design for microservice.
+
 
 🌱 I’m currently learning more technicals about developing mobile and game PC.
 
