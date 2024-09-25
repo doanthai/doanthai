@@ -10,17 +10,7 @@ doanthai/doanthai is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![]([https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doanthai&theme=radical))](https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doanthai&theme=radical))
+![](./assets/profile-details.svg)
 
-
-
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doanthai&theme=radical
-
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doanthai&theme=radical
-
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doanthai&theme=radical&utcOffset=7
-
-
-
-
-
+ ![](./assets/repos-per-language.svg)
+ ![](./assets/most-commit-language.svg)
