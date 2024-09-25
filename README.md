@@ -10,8 +10,6 @@ doanthai/doanthai is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![]([https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doanthai&theme=radical))
-
 [![]([https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doanthai&theme=radical))](https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doanthai&theme=radical))
 
 
