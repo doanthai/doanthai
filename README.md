@@ -1,9 +1,11 @@
- 👋 Hi, I’m @doanthai and I'm a full-stack developer with 9 years of experience in professional software development. I love working with OOP and architecture design for microservice.
+ 👋 Hi, I’m @doanthai and I'm a full-stack developer with 9 years of experience in professional software development. I love working with OOP and architecture design for microservice. Besides, I regularly build data crawler tools and bot automation for many fields of e-commerce, social networks, and AI tools.
 
 
-🌱 I’m currently learning more technicals about developing mobile and game PC.
+🌱 I’m currently learning more technical aspects of developing mobile and PC games.
 
 One thing in my life: Don't just dream, do
+
+I can accomplish everything through this method or that method if you wish. "Better call me"
 
 <!---
 doanthai/doanthai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
